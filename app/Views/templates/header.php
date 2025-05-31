@@ -4,6 +4,7 @@
   <meta charset="UTF-8">
   <title>TecmobilAyC - Especialistas en Celulares</title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="shortcut icon" href="assets/img/logo.png" type="image/x-icon">
   <meta name="description" content="TecmobilAyC - Reparación y venta de celulares y accesorios">
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
   <link href="assets/css/style.css" rel="stylesheet">

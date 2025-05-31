@@ -44,31 +44,31 @@
 <div class="row g-4">
   <div class="col-md-4">
     <div class="card h-100 text-center border-primary">
-      <div class="card-body">
+      <div class="card-body d-flex flex-column">
         <i class="bi bi-tools display-4 text-primary mb-3"></i>
         <h5 class="card-title">Reparaciones</h5>
         <p class="card-text">Servicio técnico especializado en todas las marcas.</p>
-        <a href="about" class="btn btn-primary">Más información</a>
+        <a href="about" class="btn btn-primary mt-auto">Más información</a>
       </div>
     </div>
   </div>
   <div class="col-md-4">
     <div class="card h-100 text-center border-primary">
-      <div class="card-body">
+      <div class="card-body d-flex flex-column">
         <i class="bi bi-phone display-4 text-primary mb-3"></i>
         <h5 class="card-title">Venta de Equipos</h5>
         <p class="card-text">Los últimos modelos con garantía oficial.</p>
-        <a href="about" class="btn btn-primary">Más información</a>
+        <a href="about" class="btn btn-primary mt-auto">Más información</a>
       </div>
     </div>
   </div>
   <div class="col-md-4">
     <div class="card h-100 text-center border-primary">
-      <div class="card-body">
+      <div class="card-body d-flex flex-column">
         <i class="bi bi-shield-check display-4 text-primary mb-3"></i>
         <h5 class="card-title">Accesorios</h5>
         <p class="card-text">Todo lo que necesitas para tu dispositivo.</p>
-        <a href="about" class="btn btn-primary">Más información</a>
+        <a href="about" class="btn btn-primary mt-auto">Más información</a>
       </div>
     </div>
   </div>
