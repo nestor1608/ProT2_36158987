@@ -13,7 +13,7 @@
 <nav class="navbar navbar-expand-lg navbar-dark bg-primary sticky-top">
   <div class="container">
     <a class="navbar-brand" href=".">
-      <img src="assets/img/logo.png" alt="TecmobilAyC" width="40" height="40" class="d-inline-block align-top me-2">
+      <img src="assets/img/logo.png" alt="TecmobilAyC" width="40" height="40" class="d-inline-block align-top me-2 bg-dark rounded">
       TecmobilAyC
     </a>
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
