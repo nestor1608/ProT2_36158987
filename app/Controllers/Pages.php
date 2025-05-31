@@ -25,10 +25,6 @@ class Pages extends BaseController
             . view('templates/footer');
     }
 
-    public function contacto()
-    {
-        return view('templates/header'). view('pages/contacto'). view('templates/footer');
-    }
 
     public function register()
     {
